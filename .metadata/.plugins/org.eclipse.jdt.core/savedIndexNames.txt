@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+C:\Users\ROG STRIX\Documents\GitHub\Progra2-CBR\.metadata\.plugins\org.eclipse.jdt.core
+4117499015.index
+2067027311.index
