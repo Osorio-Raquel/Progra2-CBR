@@ -67,6 +67,7 @@ public class Publicacion {
 		this.comentarios = comentarios;
 	}
 	
+
 	public void agregarComentario(Comentario c) {
         comentarios.add(c);
     }
