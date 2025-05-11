@@ -67,11 +67,6 @@ public class Publicacion {
 		this.comentarios = comentarios;
 	}
 	
-	@Override
-	public String toString() {
-		return "Publicacion [fechaPublicacion=" + fechaPublicacion + ", autor=" + autor + ", imagen=" + imagen
-				+ ", descripcion=" + descripcion + ", estado=" + estado + ", comentarios=" + comentarios + "]";
-	}
 
 	public void agregarComentario(Comentario c) {
         comentarios.add(c);
